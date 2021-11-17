@@ -1,0 +1,106 @@
+Deploy, Favicon 도메인 연결 , SNS공유 광고 수익화 네이버 검색 연결
+SEO최적화
+
+https://tescoolzin.shop/test.html
+
+피그마 링크
+https://www.figma.com/file/o2V3DCykBgygUEl9d4BVkK/coolzintest?node-id=0%3A1
+
+JS는 최소한만 
+
+2~3일만에 만들 수 있다?
+
+
+https://cranky-swanson-05b754.netlify.app/result
+
+그럼 서버는 뭘로 선택하나???
+서버비 최소화??
+
+lang을 en으로 하면 번역 할껀지도 보여주네
+
+부트스트랩은 표준화된 규격을 제시한 CSS파일이다
+
+ress CSS 는 무엇인가?? << 이거 reset CSS인가??
+
+가장 마지막에 적용된얘가 중요하다
+----------------------------
+rem 
+root font size
+:root를 지정해서 폰트 사이즈를 지정해놓는다
+예를들어서 * {font-size}
+1rem =16px 
+
+성능이슈 란??
+
+버튼태그를 바로 a태그로 바꾸기도 하네???  button에 href가 있다고 해도 안넘어가지만
+
+아니면  a태그를 감싼다??
+
+typecast는 뭘까??
+
+3중 택 1이면 라디오박스로 input type raido
+
+
+큰구역을 나뉠땐 section 을 쓰고
+
+그안에 article로 세부적인걸 잡는게 좋으다?
+
+
+
+라디오버튼은 name 이 같다면 그중에서 하나만 선택이 되는데
+id가 같아서 동일하게 눌린다
+
+for 와 id 는 같이 가는 깐부이다
+
+
+JS영역
+
+문제 1번 문제 2번의 yes no 를 하나의 그룹으로 묶는다
+
+class를 이용해서 yes 를 넣어준다면??
+
+true가 몇개인지 카운팅해서 결과 페이지에 넘겨 준다!
+
+노가다를 피하려면 변수를 활용해야된다.
+
+
+
+학점 은행제 컴퓨터공학 :: 전공은 딸 수 있지만 별로 비추천한다 돈낭비다
+몇백만원정도 든다????!!!!!!!!!!!!!!
+
+
+
+defer????
+
+https://ko.javascript.info/script-async-defer
+
+
+onclick ==> result
+
+onclick="result()"
+클릭을했을때 안에 있는 함수를 실행하겠따.
+
+
+addEventListener  vs onclick
+
+
+Favicon이란 무엇인가?
+
+파비콘 또는 패비콘이란 인터넷 웹 브라우저의 주소창에 표시되는 웹사이트나 웹페이지를 대표하는 아이콘이다.
+
+
+1.내컴퓨터를 서버로 만드는 방법 :
+
+내 컴퓨터가 백엔드가 되서 요청을 24시간동안 열어둬야 하지만 외부서버를 이용하자
+
+구글 클라우드 AWS AZURE netlify  (클라우드 서버 제공 업체)
+
+heroku백엔드 배포
+
+Heroku가 주로 서버측 애플리케이션을 호스팅하는 반면, Netlify는 프론트엔드(frontend) 코드를 호스팅한다는 점이 클거 같아요
+
+Jekyll ????이건 뭔가
+
+파비콘 제네레이터
+
+https://www.favicon-generator.org/
