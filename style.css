@@ -90,3 +90,10 @@
     min-width: 200px;
     max-width: 300px;
 }
+.kakao-ad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 100px;
+}
